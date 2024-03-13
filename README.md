@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- A student studing in NTU CSIE. Interested in computer security and playing some CTFs.
+
 <!--
 **markchang0323/markchang0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
